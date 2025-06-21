@@ -7,7 +7,15 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Example Person</copyright>
-        <lastBuildDate>Fri, 09 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://clash-ty.github.io/Hugo-mysite/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 22 Jun 2025 00:08:28 +0800</lastBuildDate><atom:link href="https://clash-ty.github.io/Hugo-mysite/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Test</title>
+        <link>https://clash-ty.github.io/Hugo-mysite/p/test/</link>
+        <pubDate>Sun, 22 Jun 2025 00:08:28 +0800</pubDate>
+        
+        <guid>https://clash-ty.github.io/Hugo-mysite/p/test/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>Archives</title>
         <link>https://clash-ty.github.io/Hugo-mysite/archives/</link>
         <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>

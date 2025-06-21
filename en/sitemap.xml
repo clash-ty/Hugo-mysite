@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://clash-ty.github.io/Hugo-mysite/</loc>
-    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
+    <lastmod>2025-06-22T00:08:28+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
@@ -19,6 +19,27 @@
                 hreflang="en"
                 href="https://clash-ty.github.io/Hugo-mysite/"
                 />
+  </url><url>
+    <loc>https://clash-ty.github.io/Hugo-mysite/post/</loc>
+    <lastmod>2025-06-22T00:08:28+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://clash-ty.github.io/Hugo-mysite/zh-cn/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://clash-ty.github.io/Hugo-mysite/ar/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://clash-ty.github.io/Hugo-mysite/post/"
+                />
+  </url><url>
+    <loc>https://clash-ty.github.io/Hugo-mysite/p/test/</loc>
+    <lastmod>2025-06-22T00:08:28+08:00</lastmod>
   </url><url>
     <loc>https://clash-ty.github.io/Hugo-mysite/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
@@ -65,24 +86,6 @@
   </url><url>
     <loc>https://clash-ty.github.io/Hugo-mysite/p/markdown-syntax-guide/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://clash-ty.github.io/Hugo-mysite/post/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://clash-ty.github.io/Hugo-mysite/zh-cn/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://clash-ty.github.io/Hugo-mysite/ar/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://clash-ty.github.io/Hugo-mysite/post/"
-                />
   </url><url>
     <loc>https://clash-ty.github.io/Hugo-mysite/categories/syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
